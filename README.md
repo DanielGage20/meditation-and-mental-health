@@ -22,7 +22,7 @@
   <li> Spotify, youtube and podcasts</li>
   </ul>
   
-  <p> For each resource, I will provide links to popular meditation websites, my preferred apps and free resources that have helped my journey into meditation</p>
+  <p> For each resource, I will provide links to popular meditation websites, my preferred apps and free resources that have helped my journey into meditation.</p>
   
   <h1> Screenshots using "https://ui.dev/amiresponsive"</h1>
   
@@ -35,7 +35,7 @@
   <h1> Validator testing, HTML and CSS</h1>
   
   <h1> Credits</h1>
-  <p>Images, links and reference documents<p>
+  <p>Images, links and reference documents.<p>
   
   
   
