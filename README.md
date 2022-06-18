@@ -3,9 +3,17 @@
 
 <h1>Table of contents</h1>
 <ul>
-  <l1>How meditation can help mental health</li>
+  <li>How meditation can help mental health</li>
   <li>Understanding your emotions</li>
   <li>Who can practice meditation</li>
   <li>How to practice meditation</li>
   <li>Keep up the good work!</li>
   </ul>
+  
+  <h1>Resources</h1>
+  <ul>
+  <li>Guided meditation</li>
+  <li>Apps (free and paid)</li>
+  <li>Spotify, youtube and podcasts</li>
+  </ul>
+  
