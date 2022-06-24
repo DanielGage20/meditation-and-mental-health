@@ -25,11 +25,7 @@ header {
     display: inline;
 }
 
-#menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
-
-/* personal section */
+/* resources page */
 
 #personal {
     font-family: Oswald, sans-serif;
@@ -37,6 +33,18 @@ header {
     color: #3a3a3a;
     text-align: center;
     font-size: 125%;
+    padding-top: 100px;
+    
+}
+
+#resources {
+    font-family: Oswald, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    text-align: center;
+    font-size: 125%;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 #title {
@@ -49,7 +57,8 @@ header {
 
 img {
     height: 300px;
-    width: 35%;
+    width: 32%;
     display: inline;
     padding: 5px;
+    border-radius: 2px;
 }
