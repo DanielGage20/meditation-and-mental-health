@@ -1,3 +1,31 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200&display=swap');
-</style>
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+header {
+    font-family: Bebas neue, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+#personal {
+    font-family: Oswald, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+#title {
+    float: left;
+    font-size: 300%;
+
+}
+
+#personal {
+    text-align: center;
+    font-size: 125%;
+}
