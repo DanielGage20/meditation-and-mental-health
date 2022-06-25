@@ -10,7 +10,10 @@
 header {
     font-family: Bebas neue, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+}
+
+h1{
+    color: slategray;
 }
 /* nav bar */
 
@@ -23,6 +26,10 @@ header {
 
 #nav li {
     display: inline;
+}
+
+#nav a {
+    color:slategray;
 }
 
 /* resources page */
@@ -50,6 +57,22 @@ header {
 #title {
     float: left;
     font-size: 300%;
+
+}
+
+#help {
+    text-align: left;
+    padding-left: 2px;
+}
+
+#practice {
+    text-align: center;
+    padding-left: 2px;
+
+}
+#how {
+    text-align: right;
+    padding-left: 2px;
 
 }
 
