@@ -25,13 +25,16 @@
   
   <p> For each resource, I will provide links to popular meditation websites, my preferred apps and free resources that have helped my journey into meditation.</p>
   
-  <h1> Screenshots using "https://ui.dev/amiresponsive"</h1>
-  
  <h1> Features</h1>
  <ul>
  <li> There will be a main header of my website running across the top of my site, along side a navigation bar with links to specific sections</li>
-  <li> There will be 3 main sections to my website, with two of them, there will be links to references and popular websites and apps.</li>
+  <li> There will be 3 pages to my website, a home page, resources page and a contact form.</li>
+  <li> I will also have images running across the bottom of my home page and resources page.</li>
   </ul>
+  
+  <h1>Deployment</h1>
+  
+  <h1>Testing</h1>
   
  <h1>Code has been tested using the HTML Validator and CSS Validator with the following results:</h1>
 <ul>
