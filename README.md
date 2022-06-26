@@ -35,7 +35,12 @@
   <h1> Validator testing, HTML and CSS</h1>
   
   <h1> Credits</h1>
-  <p>Images, links and reference documents.<p>
+  <ul>
+  <li><a href="https://www.pexels.com/"> Pexels for all my images</a></li>
+  <li><a href="https://fonts.google.com/"> Google Fonts for my fonts</a></li>
+  <li><a href="https://validator.w3.org/"> W3C validator to validate my code</a></li>
+  
+  
   
   
   
