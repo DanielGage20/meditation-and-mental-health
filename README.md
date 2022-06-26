@@ -8,17 +8,16 @@
 <h1> Table of contents</h1>
 <ul>
   <li> How meditation can help mental health</li>
-  <li> Understanding your emotions</li>
   <li> Who can practice meditation</li>
   <li> How to practice meditation</li>
-  <li> Keep up the good work!</li>
   </ul>
-  <p> For each section, I will provide links to useful websites and documentation for references.</p>
+  <p> For each section, I will provide information and steps on meditation.</p>
   
   <h1> Resources</h1>
   <ul>
   <li> Guided meditation</li>
-  <li> Apps (free and paid)</li>
+  <p>For this section, I'm going to talk about the apps I used for guided meditation, how they work and some of the benefits they offers.<br>
+    I will also provide anchor elements to their websites, that will open in a new tab</p>
   <li> Spotify, youtube and podcasts</li>
   </ul>
   
