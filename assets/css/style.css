@@ -11,7 +11,8 @@
 header {
     font-family: Bebas neue, sans-serif;
     font-weight: 300;
-    padding-left: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 h1{
@@ -62,12 +63,13 @@ h1{
 }
 
 
-/* sections */
+/* sections - personal */
 
 #headers {
-    position:relative;
-    display: run-in;
+    width: 95%;
     font-size: 100%;
+    align-items: center;
+    padding-left: 10px;
 
 }
 .left-heading {
@@ -85,7 +87,7 @@ h1{
 
 #help {
     text-align: left;
-    padding-left: 5px;
+    padding-left: 10px;
 }
 
 #practice {
@@ -95,7 +97,8 @@ h1{
 
 #how {
     text-align: right;
-    padding-left: 5px;
+    padding-left: 10px;
+    
     
 }
 
@@ -106,6 +109,16 @@ h1{
     font-weight: 300;
     color: #3a3a3a;
 }
+
+#social {
+    font-family: Oswald, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    text-align: center;
+    font-size: 125%;
+}
+
+
 
 /* images */
 
