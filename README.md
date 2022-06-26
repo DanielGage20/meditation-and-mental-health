@@ -1,4 +1,4 @@
-<h1> Project Name</h1>
+§<h1> Project Name</h1>
 <h2> Meditation and Mental Health </h2>
 <p> My aim for this site is to provide information about how Meditation can positivly help mental health, who can practice Meditation, the health benefits of meditation and the main steps to practicing Meditation. I will also provide links to resources I have used throughout my journey, these being podcasts and apps. </p>
 <p> There will also be a contact form, for anyone to get in contact with me for any reason.</p>
@@ -33,7 +33,10 @@
   <li> I will also have images running across the bottom of my home page and resources page.</li>
   </ul>
   
-  <p> Insert pictures of finished website here!!</p>
+ <h3>Home page</h3>
+ <h3>Resources page</h3>
+ <h3>Contact page</h3>
+
   
   <h1>Deployment</h1>
   
