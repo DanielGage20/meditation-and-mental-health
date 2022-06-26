@@ -19,8 +19,9 @@
   <ul>
   <li> Guided meditation</li>
   <p>For this section, I'm going to talk about the apps I used for guided meditation, how they work and some of the benefits they offers.<br>
-    I will also provide anchor elements to their websites, that will open in a new tab</p>
-  <li> Spotify, youtube and podcasts</li>
+    I will also provide anchor elements to their websites, that will open in a new tab.</p>
+  <li> Podcasts</li>
+  <p> There are so many mental health podcasts out there, it would take forever to name all of them. So, instead I am only going to link the podcasts that I listen too and some information about them and how they are slightly different.</p>
   </ul>
   
   <p> For each resource, I will provide links to popular meditation websites, my preferred apps and free resources that have helped my journey into meditation.</p>
