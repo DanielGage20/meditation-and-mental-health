@@ -32,13 +32,21 @@
   <li> There will be 3 main sections to my website, with two of them, there will be links to references and popular websites and apps.</li>
   </ul>
   
-  <h1> Validator testing, HTML and CSS</h1>
+ <h1>Code has been tested using the HTML Validator and CSS Validator with the following results:</h1>
+<ul>
+<li>index.html - 0 Errors / 0 Warnings</li>
+<li>resources.html - 0 Errors / 0 Warnings</li>
+<li>contact.html - 0 Errors / 0 Warnings</li>
+  </ul>
+
   
   <h1> Credits</h1>
   <ul>
   <li><a href="https://www.pexels.com/"> Pexels for all my images</a></li>
   <li><a href="https://fonts.google.com/"> Google Fonts for my fonts</a></li>
   <li><a href="https://validator.w3.org/"> W3C validator to validate my code</a></li>
+  <li><a href="https://mycolor.space/"> My color space for my background color</a></li>
+  </ul>
   
   
   
