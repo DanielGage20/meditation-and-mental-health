@@ -66,26 +66,21 @@ h1{
 
 #headers {
     position:relative;
+    display: run-in;
+    font-size: 100%;
 
 }
 .left-heading {
     text-align: left;
-    font-size: 125%;
     position: absolute;
 }
 
 .center-heading {
     text-align: center;
-    font-size: 125%;
 }
 
 .right-heading {
     text-align: right;
-    font-size: 125%;
-    height: 50px;
-
-   
-    
 }
 
 #help {
@@ -101,7 +96,7 @@ h1{
 #how {
     text-align: right;
     padding-left: 5px;
-
+    
 }
 
 /* Resources */
@@ -124,12 +119,44 @@ img {
 
 /* contact page */
 
-form {
-    text-align: center;
-    height: 500px;
-}
-
-#name {
+.feedback-input {
+    color:white;
+    font-family: Bebas neue, sans-serif;
+    font-weight:500;
+    font-size: 18px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border:2px solid #CC6666;
+    transition: all 0.3s;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
     box-sizing: border-box;
-    border-radius: 20%;
-}
+    outline:0;
+  }
+  
+  .feedback-input:focus { border:2px solid #CC4949; }
+  
+  textarea {
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+  }
+  
+  [type="submit"] {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    width: 100%;
+    background:#CC6666;
+    border-radius:5px;
+    border:0;
+    cursor:pointer;
+    color:white;
+    font-size:24px;
+    padding-top:10px;
+    padding-bottom:10px;
+    transition: all 0.3s;
+    margin-top:-4px;
+    font-weight:700;
+  }
+  [type="submit"]:hover { background:#CC4949; }
