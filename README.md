@@ -1,5 +1,7 @@
 <h1> Project Name</h1>
 <h2> Meditation and Mental Health </h2>
+<p> My aim for this site is to provide information about how Meditation can positivly help mental health, who can practice Meditation, the health benefits of meditation and the main steps to practicing Meditation. I will also provide links to resources I have used throughout my journey, these being podcasts and apps. </p>
+<p> There will also be a contact form, for anyone to get in contact with me for any reason.</p>
 
 <h2> My personal experience with meditation</h2>
 <p> In this section, I am going to tell everyone where I think my mental health started to decline, when I asked for help and how I came out the other side. I will also explain how meditation was the most powerful exercise I did and still continue to do for to this day.</p>
