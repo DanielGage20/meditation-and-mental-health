@@ -33,6 +33,8 @@
   <li> I will also have images running across the bottom of my home page and resources page.</li>
   </ul>
   
+  <p> Insert pictures of finished website here!!</p>
+  
   <h1>Deployment</h1>
   
   <h1>Testing</h1>
