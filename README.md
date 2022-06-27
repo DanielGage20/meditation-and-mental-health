@@ -2,6 +2,11 @@
 <p> My aim for this site is to provide information about how Meditation can positivly help mental health, who can practice Meditation, the health benefits of meditation and the main steps to practicing Meditation. I will also provide links to resources I have used throughout my journey, these being podcasts and apps. </p>
 <p> There will also be a contact form, for anyone to get in contact with me for any reason.</p>
 
+<section>
+<p> My target audience is people for who experience any symptoms of poor mental health, this can be; anxiety, stress, depression, low mood, losing interest in daily activites, tiredness and lack of energy, talking less and avoiding social activities, struggling to control their emotions, aggression and irritability and feeling overwhelmed.</p> 
+
+<p> It can also attract people who are wanting to improve their overall mental health through meditation to help prevent any symptoms of poor mental health. </p>
+
 <h2> My personal experience with meditation</h2>
 <p> In this section, I am going to tell everyone where I think my mental health started to decline, when I asked for help and how I came out the other side. I will also explain how meditation was the most powerful exercise I did and still continue to do for to this day.</p>
 <p> I will also tell them the hard truth about mental health and how the main person who can help you is yourself.</p>
