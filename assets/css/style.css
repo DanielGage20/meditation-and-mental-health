@@ -79,10 +79,12 @@ h1{
 
 .center-heading {
     text-align: center;
+    margin-top: -120px;
 }
 
 .right-heading {
     text-align: right;
+    margin-top: -120px;
 }
 
 #help {
@@ -108,6 +110,7 @@ h1{
     font-family: Oswald, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    margin-top: -110px;
 }
 
 #social {
