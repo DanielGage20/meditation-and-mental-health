@@ -62,6 +62,7 @@
 <li>index.html - 0 Errors / 0 Warnings</li>
 <li>resources.html - 0 Errors / 0 Warnings</li>
 <li>contact.html - 0 Errors / 0 Warnings</li>
+  <li>style.css - 0 Errors / 0 Warnings</li>
   </ul>
 
   
