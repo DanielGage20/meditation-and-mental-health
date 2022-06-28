@@ -44,6 +44,17 @@
   
   <h1>Deployment</h1>
   
+  <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
+<ul>
+  <li>Log into GitHub.</li>
+  <li>From the list of repositories on the screen, select DanielGage20/meditation-and-mental-health.</li>
+  <li>From the menu items near the top of the page, select Settings.</li>
+  <li>Scroll down to the GitHub Pages section.</li>
+  <li>Under Source click the drop-down menu labelled None and select Master Branch</li>
+  <li>On selecting Master Branch the page is automatically refreshed, the website is now deployed.</li>
+  <li>Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.</li>
+  </ul>
+  
   <h1>Testing</h1>
   
  <h1>Code has been tested using the HTML Validator and CSS Validator with the following results:</h1>
