@@ -205,8 +205,29 @@ label {
         margin-right: auto;
         padding-inline: 5%;
         padding-left: 22px;
-        
     }
+    #title {
+        width:100%;
+        text-align: center;
+
+    }
+    #nav {
+        width: 100%;
+        text-align: center;
+    }
+
+    body {
+        align-items: center;
+    }
+
+    #personal {
+        width:100%;
+        padding-top: 80px;
+    }
+    input[type=text], select, textarea {
+        width:230px;
+  }
+    
   }
  
 
@@ -221,6 +242,29 @@ label {
         margin: auto;
         padding-left: 30px;
     }
+
+    #title {
+        width:100%;
+        text-align: center;
+
+    }
+    #nav {
+        width: 100%;
+        text-align: center;
+    }
+
+    #left-heading, #center-heading, #right-heading {
+        width: 100%;
+        margin-top: 500px;
+    
+    }
+
+    #help, #practice, #how {
+        width:100%;
+    }
+
+    input[type=text], select, textarea {
+        width:400px;
   }
 
   @media screen and (min-width:769px) {
@@ -234,6 +278,29 @@ label {
         margin: auto;
         padding-left: 50px;
     }
+
+    #title {
+        width:100%;
+        text-align: center;
+
+    }
+    #nav {
+        width: 100%;
+        text-align: center;
+    }
+
+    #left-heading, #center-heading, #right-heading {
+        width: 10%;
+    
+    }
+
+    #help, #practice, #how {
+        width:20%;
+        
+    }
+    input[type=text], select, textarea {
+        width:680px;
+  }
 }
 
 @media screen and (min-width:1024px) {
@@ -247,7 +314,23 @@ label {
         margin: auto;
         padding-left: 28px;
     }
-}
-   
 
+    #left-heading, #center-heading, #right-heading {
+        width: 30%;
+        align-items: inline;
+    }
+
+    #help, #practice, #how {
+        width:30%;
+        
+    }
+   
+    input[type=text], select, textarea {
+        width:900px;
+  }
  
+.container {
+    width: 800px;
+}
+
+}
