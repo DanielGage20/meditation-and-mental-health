@@ -315,13 +315,18 @@ label {
         padding-left: 28px;
     }
 
-    #left-heading, #center-heading, #right-heading {
-        width: 30%;
-        align-items: inline;
+    #left-heading, #help {
+        width: 40%;
+        
+    }
+    #center-heading, #practice {
+        width: 40%;
+        padding-left: 50px;
     }
 
-    #help, #practice, #how {
-        width:30%;
+    #right-heading, #how, {
+        width: 40%;
+        padding-right: -100px;
         
     }
    
