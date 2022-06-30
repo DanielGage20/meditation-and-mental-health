@@ -37,11 +37,6 @@
   <li> I will also have images running across the bottom of my home page and resources page.</li>
   </ul>
   
- <h3>Home page</h3>
- <h3>Resources page</h3>
- <h3>Contact page</h3>
-
-  
   <h1>Deployment</h1>
   
   <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
